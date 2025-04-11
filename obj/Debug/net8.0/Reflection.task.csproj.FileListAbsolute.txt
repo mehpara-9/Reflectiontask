@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\bin\Debug\net8.0\Reflection.task.exe
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\bin\Debug\net8.0\Reflection.task.deps.json
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\bin\Debug\net8.0\Reflection.task.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\bin\Debug\net8.0\Reflection.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\bin\Debug\net8.0\Reflection.task.pdb
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\refint\Reflection.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.pdb
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\Reflection.task.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\New folder\Reflection.task\obj\Debug\net8.0\ref\Reflection.task.dll
